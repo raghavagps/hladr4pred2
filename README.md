@@ -24,7 +24,7 @@ This will predict if the submitted sequences are Binders or Non-binder. It will 
 
 ## Full Usage
 ```
-usage: transfacpred.py [-h] 
+usage: hladr4pred2.py [-h] 
                        [-i INPUT 
                        [-o OUTPUT]
 		       [-j {1,2,3}]
