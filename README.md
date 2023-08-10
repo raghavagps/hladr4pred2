@@ -3,6 +3,8 @@ A computational approach to predict HLA-DRB1-04:01 binders using the sequence in
 ## Introduction
 HLADR4Pred2.0 is an update of HLADR4Pred published by our group in 2004. It is developed to predict, scan, and, design the binders of HLA-Class II allele HLA-DRB1-04:01 using sequence information only. In the standalone version, extra-tree classifier based model is implemented alongwith the BLAST search, named it as hybrid approach.
 HLADR4Pred2.0 is also available as web-server at https://webs.iiitd.edu.in/raghava/hladr4pred2. Please read/cite the content about the HLADR4Pred2.0 for complete information including algorithm behind the approach.
+## Reference:
+Patiyal S, Dhall A, Kumar N, Raghava GPS. HLA-DR4Pred2: an improved method for predicting HLA-DRB1*04:01 binders. <a href="https://europepmc.org/article/PPR/PPR697620"><font color=blue>bioRxiv; 2023. DOI: 10.1101/2023.07.24.550447.</font></a>
 
 ## Standalone
 The Standalone version of transfacpred is written in python3 and following libraries are necessary for the successful run:
