@@ -6,6 +6,15 @@ HLADR4Pred2.0 is also available as web-server at https://webs.iiitd.edu.in/ragha
 ## Reference:
 Patiyal S, Dhall A, Kumar N, Raghava GPS. HLA-DR4Pred2: an improved method for predicting HLA-DRB1*04:01 binders. <a href="https://europepmc.org/article/PPR/PPR697620"><font color=blue>bioRxiv; 2023. DOI: 10.1101/2023.07.24.550447.</font></a>
 
+## PIP Installation
+PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install hladr4pred2
+```
+To know about the available option for the pip package, type the following command:
+```
+hladr4pred2 -h
+```
 ## Standalone
 The Standalone version of transfacpred is written in python3 and following libraries are necessary for the successful run:
 - scikit-learn
