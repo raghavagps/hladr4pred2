@@ -4,8 +4,18 @@ A computational approach to predict HLA-DRB1-04:01 binders using the sequence in
 HLADR4Pred2.0 is an update of HLADR4Pred published by our group in 2004. It is developed to predict, scan, and, design the binders of HLA-Class II allele HLA-DRB1-04:01 using sequence information only. In the standalone version, extra-tree classifier based model is implemented alongwith the BLAST search, named it as hybrid approach.
 HLADR4Pred2.0 is also available as web-server at https://webs.iiitd.edu.in/raghava/hladr4pred2. Please read/cite the content about the HLADR4Pred2.0 for complete information including algorithm behind the approach.
 ## Reference:
-Patiyal S, Dhall A, Kumar N, Raghava GPS. HLA-DR4Pred2: an improved method for predicting HLA-DRB1*04:01 binders. <a href="https://europepmc.org/article/PPR/PPR697620"><font color=blue>bioRxiv; 2023. DOI: 10.1101/2023.07.24.550447.</font></a>
+<ol>  
+  <li>  
+<p style="margin-left:5em;">
 
+    Patiyal S, Dhall A, Kumar N, Raghava GPS (2024) HLA-DR4Pred2: an improved method for predicting HLA-DRB104:01 binders. <a href="https://doi.org/10.1016/j.ymeth.2024.10.007"><font color=blue>Methods, doi.org/10.1016/j.ymeth.2024.10.007.</font></a>
+</p>
+<li> 
+<p style="margin-left:5em;">
+    Bhasin M, Raghava GPS (2004).SVM based method for predicting HLA-DRB1 binding peptides in an antigen sequence. <A href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14960470&query_hl=1&itool=pubmed_docsum"><font color=blue>Bioinformatics 20(3): 421-3</font><a>
+</p>    
+</ol>     
+ 
 ## PIP Installation
 PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
 ```
